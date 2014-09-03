@@ -1,5 +1,5 @@
-IniParser
-=========
+IniParser (java and C#)
+=======================
 
 This is a ery simple parser for ini files.
 
